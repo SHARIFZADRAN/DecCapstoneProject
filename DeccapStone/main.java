@@ -11,7 +11,7 @@ public class main {
 		int y = 19;
 		int z = 10;
 		
-	
+	System.out.println(x + y - z);
 		
 	}
 
